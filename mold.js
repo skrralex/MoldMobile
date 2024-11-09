@@ -23,7 +23,7 @@ class Mold {
       this.vy = sin(this.heading);
       this.rotAngle = 270;
       this.stop = false // Boolean variable to stop molds from moving 
-      this.speed = random(0.1, 750); // Each mold gets a random speed
+      this.speed = random(0.1, 350); // Each mold gets a random speed
 
       this.noiseOffset = random(1000); // Random offset for each mold to make the noise different
 
