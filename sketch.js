@@ -11,7 +11,7 @@ https://www.pattvira.com/
 ----------------------------------------
 */
 
-let molds = []; let num = 1000;
+let molds = []; let num = 500;
 let d; 
 
 // function updateSensorDist() {
